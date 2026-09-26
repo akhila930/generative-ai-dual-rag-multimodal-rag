@@ -1,0 +1,49 @@
+.venv/
+__pycache__/
+*.pyc
+.cache/
+hf_cache/
+data/page_images/
+data/faiss_index/
+results/*.csv
+results/*.json
+results/*.png
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment variables / secrets
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Python tools
+.pytest_cache/
+.mypy_cache/
+
+# Model/cache files
+.cache/
+huggingface/
+models/
+*.gguf
+*.safetensors
+*.bin
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Temporary files
+*.log

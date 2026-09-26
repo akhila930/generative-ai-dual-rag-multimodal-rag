@@ -1,0 +1,14 @@
+flowchart TD
+    A[University Research Incubation Handbook PDF] --> B[PDF extraction + page-level chunks]
+    B --> C[Sentence Transformer Embeddings]
+    C --> D[(Shared FAISS Vector Database)]
+    Q[Same evaluation question] --> R[Retriever Top-k]
+    D --> R
+    R --> S[Retrieved handbook pages]
+    S --> SM[SmolLM2-135M-Instruct]
+    S --> LL[Llama 3.2 1B/3B-Instruct]
+    SM --> A1[Answer A + latency]
+    LL --> A2[Answer B + latency]
+    A1 --> E[Evaluation]
+    A2 --> E
+    E --> F[Metrics + Failure Analysis]

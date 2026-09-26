@@ -1,0 +1,162 @@
+[
+  {
+    "id": "Q01",
+    "question": "What is the purpose of the Research Incubation program?",
+    "reference_answer": "The Research Incubation program aims to equip students with critical thinking and problem-solving skills and develop research-oriented thinking so they can thrive and innovate in a changing business and technical environment.",
+    "gold_pages": [
+      3
+    ]
+  },
+  {
+    "id": "Q02",
+    "question": "To which programs does the Research Incubation program apply?",
+    "reference_answer": "The Research Incubation program applies only to UG programs.",
+    "gold_pages": [
+      3
+    ]
+  },
+  {
+    "id": "Q03",
+    "question": "How many credits must a student complete before registering for RI in a 4 or 5 year UG program?",
+    "reference_answer": "For a 4 or 5-year UG program, students need to complete two years and 80 credits before registering for RI.",
+    "gold_pages": [
+      3
+    ]
+  },
+  {
+    "id": "Q04",
+    "question": "What are the three RI tracks mentioned in the handbook?",
+    "reference_answer": "The three tracks are Research Track, Innovation Track, and Incubation Track.",
+    "gold_pages": [
+      3
+    ]
+  },
+  {
+    "id": "Q05",
+    "question": "What should students be able to do by the end of the Research Track?",
+    "reference_answer": "Students should be able to read research papers independently, conduct a literature review, identify research gaps, collect primary or secondary data, perform data analysis, interpret results, and communicate at least one original research paper or file an original patent.",
+    "gold_pages": [
+      4
+    ]
+  },
+  {
+    "id": "Q06",
+    "question": "What are the prerequisites before starting RI?",
+    "reference_answer": "Students must complete all GE credits, complete the SIP course, and attend the compulsory Research Methodology workshop.",
+    "gold_pages": [
+      5
+    ]
+  },
+  {
+    "id": "Q07",
+    "question": "What is the minimum and maximum number of students in a Research Cluster?",
+    "reference_answer": "A Research Cluster consists of a minimum of 2 and a maximum of 4 students from the same school.",
+    "gold_pages": [
+      5
+    ]
+  },
+  {
+    "id": "Q08",
+    "question": "How long should the RI course be completed within?",
+    "reference_answer": "The RI course should be completed within 4 terms.",
+    "gold_pages": [
+      6
+    ]
+  },
+  {
+    "id": "Q09",
+    "question": "How many total hours are allocated to the RI course?",
+    "reference_answer": "The total allocation is 120 hours.",
+    "gold_pages": [
+      6
+    ]
+  },
+  {
+    "id": "Q10",
+    "question": "How many hours per week are allocated for weekly RI sessions?",
+    "reference_answer": "Weekly RI sessions are allocated 2 hours per week.",
+    "gold_pages": [
+      6
+    ]
+  },
+  {
+    "id": "Q11",
+    "question": "What are the five mandatory submissions used for RI marks?",
+    "reference_answer": "The five mandatory submissions are Literature Review, Research Methodology and Data Collection, Data Analysis and Interpretation, first written report, and Final viva Voce.",
+    "gold_pages": [
+      7
+    ]
+  },
+  {
+    "id": "Q12",
+    "question": "What percentage weightage is given to the final PPT?",
+    "reference_answer": "The Final PPT has a weightage of 40 percent.",
+    "gold_pages": [
+      8
+    ]
+  },
+  {
+    "id": "Q13",
+    "question": "What are the five components of weekly grading?",
+    "reference_answer": "They are defining and structuring the problem, work plan submission, analysis and synthesizing findings, development of recommendations, and final presentation to faculty.",
+    "gold_pages": [
+      9
+    ]
+  },
+  {
+    "id": "Q14",
+    "question": "What are the main sections of the final RI presentation evaluation?",
+    "reference_answer": "The main sections are Introduction and problem definition, Objectives and Literature Review, Methodology and Instrumentation, Discussion and Conclusion, and Dissertation.",
+    "gold_pages": [
+      10
+    ]
+  },
+  {
+    "id": "Q15",
+    "question": "What are the final-term RI milestones?",
+    "reference_answer": "The final-term milestones are Conference Paper, Journal paper submission, and Final RI Presentation.",
+    "gold_pages": [
+      11
+    ]
+  },
+  {
+    "id": "Q16",
+    "question": "What grade corresponds to A+ in the milestone grading table?",
+    "reference_answer": "A+ corresponds to 10.",
+    "gold_pages": [
+      11
+    ]
+  },
+  {
+    "id": "Q17",
+    "question": "Who leads the RI Governance Council?",
+    "reference_answer": "The RI Governance Council is led by the RI Chair and Co-Chair.",
+    "gold_pages": [
+      12
+    ]
+  },
+  {
+    "id": "Q18",
+    "question": "What schools are represented by coordinators in the RI Governance Council diagram?",
+    "reference_answer": "The diagram shows coordinators for JAGSoM, School of Law, School of Science and Technology, School of Design, and True School of Music.",
+    "gold_pages": [
+      12
+    ]
+  },
+  {
+    "id": "Q19",
+    "question": "What publication formats are compulsory for RI students according to the operational framework?",
+    "reference_answer": "Students are required to publish their research work as journal articles, conference papers, or book chapters.",
+    "gold_pages": [
+      13
+    ]
+  },
+  {
+    "id": "Q20",
+    "question": "What publication level is stated as required to get A or A+?",
+    "reference_answer": "The handbook states that to get A+ or A, students have to publish in Scopus-listed publications.",
+    "gold_pages": [
+      13
+    ]
+  }
+]

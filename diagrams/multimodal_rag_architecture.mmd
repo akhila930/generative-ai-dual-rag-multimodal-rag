@@ -1,0 +1,37 @@
+flowchart TD
+
+    A[University Research Incubation Handbook PDF]
+
+    A --> B[Document Processing]
+
+    B --> C[Extract Text + Page Numbers]
+    B --> D[Render Handbook Pages as Images]
+
+    C --> E[Embedding Model]
+    E --> F[(Shared Vector Database)]
+
+    Q[User Question] --> F
+
+    F --> G[Top-K Relevant Pages]
+
+    G --> H[Retrieved Text Context]
+    G --> I[Retrieved Page Images]
+
+    H --> J[Multimodal Context]
+    I --> J
+
+    J --> K[SmolVLM-256M-Instruct<br/>Lightweight Vision-Language Model]
+
+    K --> L[Multimodal Answer]
+
+    L --> M[Evaluation]
+
+    M --> N[Keyword Coverage]
+    M --> O[Answer Similarity]
+    M --> P[Groundedness Proxy]
+    M --> R[Latency]
+    M --> S[Retrieval Success]
+
+    style F stroke-width:3px
+    style K stroke-width:3px
+    style L stroke-width:3px
