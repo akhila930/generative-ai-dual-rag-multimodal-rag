@@ -1,4 +1,4 @@
-# Generative AI End-Term — Dual RAG and Multimodal RAG
+# Generative AI - Dual RAG and Multimodal RAG
 
 ## Overview
 
